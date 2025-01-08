@@ -1,5 +1,3 @@
-Here's a comprehensive README.md for the Financial Life Planner application:
-
 # Financial Life Planner
 
 A comprehensive financial management application built with Streamlit that helps users track expenses, manage investments, and achieve financial goals.
